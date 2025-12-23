@@ -1,0 +1,23 @@
+[
+  {
+    "time": "2025-12-23T08:00:00Z",
+    "symbol": "BTCUSDT",
+    "price": 50000.10,
+    "volume": 1.5,
+    "source": "binance"
+  },
+  {
+    "time": "2025-12-23T08:00:01Z",
+    "symbol": "BTCUSDT",
+    "price": 50020.50,
+    "volume": 2.0,
+    "source": "binance"
+  },
+  {
+    "time": "2025-12-23T08:00:02Z",
+    "symbol": "BTCUSDT",
+    "price": 49990.00,
+    "volume": 1.2,
+    "source": "binance"
+  }
+]

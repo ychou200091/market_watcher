@@ -1,0 +1,22 @@
+[
+  {
+    "alert_id": "00000000-0000-0000-0000-000000000001",
+    "symbol": "BTCUSDT",
+    "metric": "volatility",
+    "threshold": 5.0,
+    "trigger_value": 5.4,
+    "severity": "warning",
+    "timestamp": "2025-12-23T08:05:10Z",
+    "details": {"window_seconds": 30}
+  },
+  {
+    "alert_id": "00000000-0000-0000-0000-000000000002",
+    "symbol": "BTCUSDT",
+    "metric": "drawdown",
+    "threshold": 3.0,
+    "trigger_value": 3.8,
+    "severity": "critical",
+    "timestamp": "2025-12-23T08:06:20Z",
+    "details": {"peak": 50200.0, "trough": 48300.0}
+  }
+]
