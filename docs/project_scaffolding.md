@@ -1,6 +1,6 @@
 # Project Scaffolding
 
-This document defines a production-ready directory layout for the Market Watcher MVP. It matches the current PRD and decisions: Python stream processing, Kafka/Redpanda, TimescaleDB, Redis, FastAPI, and a React + Firebase-authenticated dashboard.
+This document defines a production-ready directory layout for the Market Watcher. It matches the current PRD and decisions: Python stream processing, Kafka/Redpanda, TimescaleDB, Redis, FastAPI, and a React + Firebase-authenticated dashboard.
 
 
 ## Directory Structure
